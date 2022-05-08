@@ -1,0 +1,14 @@
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz3Arrays\Quiz3Arrays\bin\Debug\netcoreapp3.1\Quiz3Arrays.exe
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz3Arrays\Quiz3Arrays\bin\Debug\netcoreapp3.1\Quiz3Arrays.deps.json
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz3Arrays\Quiz3Arrays\bin\Debug\netcoreapp3.1\Quiz3Arrays.runtimeconfig.json
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz3Arrays\Quiz3Arrays\bin\Debug\netcoreapp3.1\Quiz3Arrays.runtimeconfig.dev.json
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz3Arrays\Quiz3Arrays\bin\Debug\netcoreapp3.1\Quiz3Arrays.dll
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz3Arrays\Quiz3Arrays\bin\Debug\netcoreapp3.1\Quiz3Arrays.pdb
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz3Arrays\Quiz3Arrays\obj\Debug\netcoreapp3.1\Quiz3Arrays.csproj.AssemblyReference.cache
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz3Arrays\Quiz3Arrays\obj\Debug\netcoreapp3.1\Quiz3Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz3Arrays\Quiz3Arrays\obj\Debug\netcoreapp3.1\Quiz3Arrays.AssemblyInfoInputs.cache
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz3Arrays\Quiz3Arrays\obj\Debug\netcoreapp3.1\Quiz3Arrays.AssemblyInfo.cs
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz3Arrays\Quiz3Arrays\obj\Debug\netcoreapp3.1\Quiz3Arrays.csproj.CoreCompileInputs.cache
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz3Arrays\Quiz3Arrays\obj\Debug\netcoreapp3.1\Quiz3Arrays.dll
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz3Arrays\Quiz3Arrays\obj\Debug\netcoreapp3.1\Quiz3Arrays.pdb
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz3Arrays\Quiz3Arrays\obj\Debug\netcoreapp3.1\Quiz3Arrays.genruntimeconfig.cache

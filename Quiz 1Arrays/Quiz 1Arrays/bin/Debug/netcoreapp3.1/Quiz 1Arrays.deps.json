@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Quiz 1Arrays/1.0.0": {
+        "runtime": {
+          "Quiz 1Arrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Quiz 1Arrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

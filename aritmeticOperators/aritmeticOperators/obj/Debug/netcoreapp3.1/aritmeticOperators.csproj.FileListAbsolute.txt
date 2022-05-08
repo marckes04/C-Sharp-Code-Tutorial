@@ -1,0 +1,14 @@
+C:\Users\AsusPC\Desktop\C# Lessons\aritmeticOperators\aritmeticOperators\bin\Debug\netcoreapp3.1\aritmeticOperators.exe
+C:\Users\AsusPC\Desktop\C# Lessons\aritmeticOperators\aritmeticOperators\bin\Debug\netcoreapp3.1\aritmeticOperators.deps.json
+C:\Users\AsusPC\Desktop\C# Lessons\aritmeticOperators\aritmeticOperators\bin\Debug\netcoreapp3.1\aritmeticOperators.runtimeconfig.json
+C:\Users\AsusPC\Desktop\C# Lessons\aritmeticOperators\aritmeticOperators\bin\Debug\netcoreapp3.1\aritmeticOperators.runtimeconfig.dev.json
+C:\Users\AsusPC\Desktop\C# Lessons\aritmeticOperators\aritmeticOperators\bin\Debug\netcoreapp3.1\aritmeticOperators.dll
+C:\Users\AsusPC\Desktop\C# Lessons\aritmeticOperators\aritmeticOperators\bin\Debug\netcoreapp3.1\aritmeticOperators.pdb
+C:\Users\AsusPC\Desktop\C# Lessons\aritmeticOperators\aritmeticOperators\obj\Debug\netcoreapp3.1\aritmeticOperators.csproj.AssemblyReference.cache
+C:\Users\AsusPC\Desktop\C# Lessons\aritmeticOperators\aritmeticOperators\obj\Debug\netcoreapp3.1\aritmeticOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AsusPC\Desktop\C# Lessons\aritmeticOperators\aritmeticOperators\obj\Debug\netcoreapp3.1\aritmeticOperators.AssemblyInfoInputs.cache
+C:\Users\AsusPC\Desktop\C# Lessons\aritmeticOperators\aritmeticOperators\obj\Debug\netcoreapp3.1\aritmeticOperators.AssemblyInfo.cs
+C:\Users\AsusPC\Desktop\C# Lessons\aritmeticOperators\aritmeticOperators\obj\Debug\netcoreapp3.1\aritmeticOperators.csproj.CoreCompileInputs.cache
+C:\Users\AsusPC\Desktop\C# Lessons\aritmeticOperators\aritmeticOperators\obj\Debug\netcoreapp3.1\aritmeticOperators.dll
+C:\Users\AsusPC\Desktop\C# Lessons\aritmeticOperators\aritmeticOperators\obj\Debug\netcoreapp3.1\aritmeticOperators.pdb
+C:\Users\AsusPC\Desktop\C# Lessons\aritmeticOperators\aritmeticOperators\obj\Debug\netcoreapp3.1\aritmeticOperators.genruntimeconfig.cache

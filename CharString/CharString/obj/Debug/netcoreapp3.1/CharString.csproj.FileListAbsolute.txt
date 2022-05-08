@@ -1,0 +1,14 @@
+C:\Users\AsusPC\source\repos\CharString\CharString\bin\Debug\netcoreapp3.1\CharString.exe
+C:\Users\AsusPC\source\repos\CharString\CharString\bin\Debug\netcoreapp3.1\CharString.deps.json
+C:\Users\AsusPC\source\repos\CharString\CharString\bin\Debug\netcoreapp3.1\CharString.runtimeconfig.json
+C:\Users\AsusPC\source\repos\CharString\CharString\bin\Debug\netcoreapp3.1\CharString.runtimeconfig.dev.json
+C:\Users\AsusPC\source\repos\CharString\CharString\bin\Debug\netcoreapp3.1\CharString.dll
+C:\Users\AsusPC\source\repos\CharString\CharString\bin\Debug\netcoreapp3.1\CharString.pdb
+C:\Users\AsusPC\source\repos\CharString\CharString\obj\Debug\netcoreapp3.1\CharString.csproj.AssemblyReference.cache
+C:\Users\AsusPC\source\repos\CharString\CharString\obj\Debug\netcoreapp3.1\CharString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AsusPC\source\repos\CharString\CharString\obj\Debug\netcoreapp3.1\CharString.AssemblyInfoInputs.cache
+C:\Users\AsusPC\source\repos\CharString\CharString\obj\Debug\netcoreapp3.1\CharString.AssemblyInfo.cs
+C:\Users\AsusPC\source\repos\CharString\CharString\obj\Debug\netcoreapp3.1\CharString.csproj.CoreCompileInputs.cache
+C:\Users\AsusPC\source\repos\CharString\CharString\obj\Debug\netcoreapp3.1\CharString.dll
+C:\Users\AsusPC\source\repos\CharString\CharString\obj\Debug\netcoreapp3.1\CharString.pdb
+C:\Users\AsusPC\source\repos\CharString\CharString\obj\Debug\netcoreapp3.1\CharString.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz1Conditionals\Quiz1Conditionals\bin\Debug\netcoreapp3.1\Quiz1Conditionals.exe
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz1Conditionals\Quiz1Conditionals\bin\Debug\netcoreapp3.1\Quiz1Conditionals.deps.json
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz1Conditionals\Quiz1Conditionals\bin\Debug\netcoreapp3.1\Quiz1Conditionals.runtimeconfig.json
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz1Conditionals\Quiz1Conditionals\bin\Debug\netcoreapp3.1\Quiz1Conditionals.runtimeconfig.dev.json
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz1Conditionals\Quiz1Conditionals\bin\Debug\netcoreapp3.1\Quiz1Conditionals.dll
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz1Conditionals\Quiz1Conditionals\bin\Debug\netcoreapp3.1\Quiz1Conditionals.pdb
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz1Conditionals\Quiz1Conditionals\obj\Debug\netcoreapp3.1\Quiz1Conditionals.csproj.AssemblyReference.cache
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz1Conditionals\Quiz1Conditionals\obj\Debug\netcoreapp3.1\Quiz1Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz1Conditionals\Quiz1Conditionals\obj\Debug\netcoreapp3.1\Quiz1Conditionals.AssemblyInfoInputs.cache
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz1Conditionals\Quiz1Conditionals\obj\Debug\netcoreapp3.1\Quiz1Conditionals.AssemblyInfo.cs
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz1Conditionals\Quiz1Conditionals\obj\Debug\netcoreapp3.1\Quiz1Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz1Conditionals\Quiz1Conditionals\obj\Debug\netcoreapp3.1\Quiz1Conditionals.dll
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz1Conditionals\Quiz1Conditionals\obj\Debug\netcoreapp3.1\Quiz1Conditionals.pdb
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz1Conditionals\Quiz1Conditionals\obj\Debug\netcoreapp3.1\Quiz1Conditionals.genruntimeconfig.cache

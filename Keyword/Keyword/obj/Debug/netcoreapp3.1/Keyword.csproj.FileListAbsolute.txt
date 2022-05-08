@@ -1,0 +1,14 @@
+C:\Users\AsusPC\source\repos\Keyword\Keyword\bin\Debug\netcoreapp3.1\Keyword.exe
+C:\Users\AsusPC\source\repos\Keyword\Keyword\bin\Debug\netcoreapp3.1\Keyword.deps.json
+C:\Users\AsusPC\source\repos\Keyword\Keyword\bin\Debug\netcoreapp3.1\Keyword.runtimeconfig.json
+C:\Users\AsusPC\source\repos\Keyword\Keyword\bin\Debug\netcoreapp3.1\Keyword.runtimeconfig.dev.json
+C:\Users\AsusPC\source\repos\Keyword\Keyword\bin\Debug\netcoreapp3.1\Keyword.dll
+C:\Users\AsusPC\source\repos\Keyword\Keyword\bin\Debug\netcoreapp3.1\Keyword.pdb
+C:\Users\AsusPC\source\repos\Keyword\Keyword\obj\Debug\netcoreapp3.1\Keyword.csproj.AssemblyReference.cache
+C:\Users\AsusPC\source\repos\Keyword\Keyword\obj\Debug\netcoreapp3.1\Keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AsusPC\source\repos\Keyword\Keyword\obj\Debug\netcoreapp3.1\Keyword.AssemblyInfoInputs.cache
+C:\Users\AsusPC\source\repos\Keyword\Keyword\obj\Debug\netcoreapp3.1\Keyword.AssemblyInfo.cs
+C:\Users\AsusPC\source\repos\Keyword\Keyword\obj\Debug\netcoreapp3.1\Keyword.csproj.CoreCompileInputs.cache
+C:\Users\AsusPC\source\repos\Keyword\Keyword\obj\Debug\netcoreapp3.1\Keyword.dll
+C:\Users\AsusPC\source\repos\Keyword\Keyword\obj\Debug\netcoreapp3.1\Keyword.pdb
+C:\Users\AsusPC\source\repos\Keyword\Keyword\obj\Debug\netcoreapp3.1\Keyword.genruntimeconfig.cache

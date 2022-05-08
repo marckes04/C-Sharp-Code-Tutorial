@@ -1,0 +1,14 @@
+C:\Users\AsusPC\source\repos\ConsoleInput\ConsoleInput\bin\Debug\netcoreapp3.1\ConsoleInput.exe
+C:\Users\AsusPC\source\repos\ConsoleInput\ConsoleInput\bin\Debug\netcoreapp3.1\ConsoleInput.deps.json
+C:\Users\AsusPC\source\repos\ConsoleInput\ConsoleInput\bin\Debug\netcoreapp3.1\ConsoleInput.runtimeconfig.json
+C:\Users\AsusPC\source\repos\ConsoleInput\ConsoleInput\bin\Debug\netcoreapp3.1\ConsoleInput.runtimeconfig.dev.json
+C:\Users\AsusPC\source\repos\ConsoleInput\ConsoleInput\bin\Debug\netcoreapp3.1\ConsoleInput.dll
+C:\Users\AsusPC\source\repos\ConsoleInput\ConsoleInput\bin\Debug\netcoreapp3.1\ConsoleInput.pdb
+C:\Users\AsusPC\source\repos\ConsoleInput\ConsoleInput\obj\Debug\netcoreapp3.1\ConsoleInput.csproj.AssemblyReference.cache
+C:\Users\AsusPC\source\repos\ConsoleInput\ConsoleInput\obj\Debug\netcoreapp3.1\ConsoleInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AsusPC\source\repos\ConsoleInput\ConsoleInput\obj\Debug\netcoreapp3.1\ConsoleInput.AssemblyInfoInputs.cache
+C:\Users\AsusPC\source\repos\ConsoleInput\ConsoleInput\obj\Debug\netcoreapp3.1\ConsoleInput.AssemblyInfo.cs
+C:\Users\AsusPC\source\repos\ConsoleInput\ConsoleInput\obj\Debug\netcoreapp3.1\ConsoleInput.csproj.CoreCompileInputs.cache
+C:\Users\AsusPC\source\repos\ConsoleInput\ConsoleInput\obj\Debug\netcoreapp3.1\ConsoleInput.dll
+C:\Users\AsusPC\source\repos\ConsoleInput\ConsoleInput\obj\Debug\netcoreapp3.1\ConsoleInput.pdb
+C:\Users\AsusPC\source\repos\ConsoleInput\ConsoleInput\obj\Debug\netcoreapp3.1\ConsoleInput.genruntimeconfig.cache

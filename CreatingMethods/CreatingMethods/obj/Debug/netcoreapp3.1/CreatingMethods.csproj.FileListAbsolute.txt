@@ -1,0 +1,14 @@
+C:\Users\AsusPC\source\repos\CreatingMethods\CreatingMethods\bin\Debug\netcoreapp3.1\CreatingMethods.exe
+C:\Users\AsusPC\source\repos\CreatingMethods\CreatingMethods\bin\Debug\netcoreapp3.1\CreatingMethods.deps.json
+C:\Users\AsusPC\source\repos\CreatingMethods\CreatingMethods\bin\Debug\netcoreapp3.1\CreatingMethods.runtimeconfig.json
+C:\Users\AsusPC\source\repos\CreatingMethods\CreatingMethods\bin\Debug\netcoreapp3.1\CreatingMethods.runtimeconfig.dev.json
+C:\Users\AsusPC\source\repos\CreatingMethods\CreatingMethods\bin\Debug\netcoreapp3.1\CreatingMethods.dll
+C:\Users\AsusPC\source\repos\CreatingMethods\CreatingMethods\bin\Debug\netcoreapp3.1\CreatingMethods.pdb
+C:\Users\AsusPC\source\repos\CreatingMethods\CreatingMethods\obj\Debug\netcoreapp3.1\CreatingMethods.csproj.AssemblyReference.cache
+C:\Users\AsusPC\source\repos\CreatingMethods\CreatingMethods\obj\Debug\netcoreapp3.1\CreatingMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AsusPC\source\repos\CreatingMethods\CreatingMethods\obj\Debug\netcoreapp3.1\CreatingMethods.AssemblyInfoInputs.cache
+C:\Users\AsusPC\source\repos\CreatingMethods\CreatingMethods\obj\Debug\netcoreapp3.1\CreatingMethods.AssemblyInfo.cs
+C:\Users\AsusPC\source\repos\CreatingMethods\CreatingMethods\obj\Debug\netcoreapp3.1\CreatingMethods.csproj.CoreCompileInputs.cache
+C:\Users\AsusPC\source\repos\CreatingMethods\CreatingMethods\obj\Debug\netcoreapp3.1\CreatingMethods.dll
+C:\Users\AsusPC\source\repos\CreatingMethods\CreatingMethods\obj\Debug\netcoreapp3.1\CreatingMethods.pdb
+C:\Users\AsusPC\source\repos\CreatingMethods\CreatingMethods\obj\Debug\netcoreapp3.1\CreatingMethods.genruntimeconfig.cache

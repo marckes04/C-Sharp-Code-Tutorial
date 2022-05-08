@@ -1,0 +1,8 @@
+C:\Users\AsusPC\Desktop\C# Lessons\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\AsusPC\Desktop\C# Lessons\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\AsusPC\Desktop\C# Lessons\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\AsusPC\Desktop\C# Lessons\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\AsusPC\Desktop\C# Lessons\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\AsusPC\Desktop\C# Lessons\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\AsusPC\Desktop\C# Lessons\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\AsusPC\Desktop\C# Lessons\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache

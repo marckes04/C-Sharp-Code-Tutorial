@@ -1,0 +1,14 @@
+C:\Users\AsusPC\Desktop\C# Lessons\MultidimensionalArray\MultidimensionalArray\bin\Debug\netcoreapp3.1\MultidimensionalArray.exe
+C:\Users\AsusPC\Desktop\C# Lessons\MultidimensionalArray\MultidimensionalArray\bin\Debug\netcoreapp3.1\MultidimensionalArray.deps.json
+C:\Users\AsusPC\Desktop\C# Lessons\MultidimensionalArray\MultidimensionalArray\bin\Debug\netcoreapp3.1\MultidimensionalArray.runtimeconfig.json
+C:\Users\AsusPC\Desktop\C# Lessons\MultidimensionalArray\MultidimensionalArray\bin\Debug\netcoreapp3.1\MultidimensionalArray.runtimeconfig.dev.json
+C:\Users\AsusPC\Desktop\C# Lessons\MultidimensionalArray\MultidimensionalArray\bin\Debug\netcoreapp3.1\MultidimensionalArray.dll
+C:\Users\AsusPC\Desktop\C# Lessons\MultidimensionalArray\MultidimensionalArray\bin\Debug\netcoreapp3.1\MultidimensionalArray.pdb
+C:\Users\AsusPC\Desktop\C# Lessons\MultidimensionalArray\MultidimensionalArray\obj\Debug\netcoreapp3.1\MultidimensionalArray.csproj.AssemblyReference.cache
+C:\Users\AsusPC\Desktop\C# Lessons\MultidimensionalArray\MultidimensionalArray\obj\Debug\netcoreapp3.1\MultidimensionalArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AsusPC\Desktop\C# Lessons\MultidimensionalArray\MultidimensionalArray\obj\Debug\netcoreapp3.1\MultidimensionalArray.AssemblyInfoInputs.cache
+C:\Users\AsusPC\Desktop\C# Lessons\MultidimensionalArray\MultidimensionalArray\obj\Debug\netcoreapp3.1\MultidimensionalArray.AssemblyInfo.cs
+C:\Users\AsusPC\Desktop\C# Lessons\MultidimensionalArray\MultidimensionalArray\obj\Debug\netcoreapp3.1\MultidimensionalArray.csproj.CoreCompileInputs.cache
+C:\Users\AsusPC\Desktop\C# Lessons\MultidimensionalArray\MultidimensionalArray\obj\Debug\netcoreapp3.1\MultidimensionalArray.dll
+C:\Users\AsusPC\Desktop\C# Lessons\MultidimensionalArray\MultidimensionalArray\obj\Debug\netcoreapp3.1\MultidimensionalArray.pdb
+C:\Users\AsusPC\Desktop\C# Lessons\MultidimensionalArray\MultidimensionalArray\obj\Debug\netcoreapp3.1\MultidimensionalArray.genruntimeconfig.cache

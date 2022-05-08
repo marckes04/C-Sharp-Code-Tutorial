@@ -1,0 +1,13 @@
+C:\Users\AsusPC\source\repos\Quiz2\Quiz2\bin\Debug\netcoreapp3.1\Quiz2.exe
+C:\Users\AsusPC\source\repos\Quiz2\Quiz2\bin\Debug\netcoreapp3.1\Quiz2.deps.json
+C:\Users\AsusPC\source\repos\Quiz2\Quiz2\bin\Debug\netcoreapp3.1\Quiz2.runtimeconfig.json
+C:\Users\AsusPC\source\repos\Quiz2\Quiz2\bin\Debug\netcoreapp3.1\Quiz2.runtimeconfig.dev.json
+C:\Users\AsusPC\source\repos\Quiz2\Quiz2\bin\Debug\netcoreapp3.1\Quiz2.dll
+C:\Users\AsusPC\source\repos\Quiz2\Quiz2\bin\Debug\netcoreapp3.1\Quiz2.pdb
+C:\Users\AsusPC\source\repos\Quiz2\Quiz2\obj\Debug\netcoreapp3.1\Quiz2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AsusPC\source\repos\Quiz2\Quiz2\obj\Debug\netcoreapp3.1\Quiz2.AssemblyInfoInputs.cache
+C:\Users\AsusPC\source\repos\Quiz2\Quiz2\obj\Debug\netcoreapp3.1\Quiz2.AssemblyInfo.cs
+C:\Users\AsusPC\source\repos\Quiz2\Quiz2\obj\Debug\netcoreapp3.1\Quiz2.csproj.CoreCompileInputs.cache
+C:\Users\AsusPC\source\repos\Quiz2\Quiz2\obj\Debug\netcoreapp3.1\Quiz2.dll
+C:\Users\AsusPC\source\repos\Quiz2\Quiz2\obj\Debug\netcoreapp3.1\Quiz2.pdb
+C:\Users\AsusPC\source\repos\Quiz2\Quiz2\obj\Debug\netcoreapp3.1\Quiz2.genruntimeconfig.cache

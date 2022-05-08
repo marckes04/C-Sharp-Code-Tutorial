@@ -1,0 +1,14 @@
+C:\Users\AsusPC\source\repos\ForLoops\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.exe
+C:\Users\AsusPC\source\repos\ForLoops\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.deps.json
+C:\Users\AsusPC\source\repos\ForLoops\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.runtimeconfig.json
+C:\Users\AsusPC\source\repos\ForLoops\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.runtimeconfig.dev.json
+C:\Users\AsusPC\source\repos\ForLoops\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.dll
+C:\Users\AsusPC\source\repos\ForLoops\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.pdb
+C:\Users\AsusPC\source\repos\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.csproj.AssemblyReference.cache
+C:\Users\AsusPC\source\repos\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AsusPC\source\repos\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.AssemblyInfoInputs.cache
+C:\Users\AsusPC\source\repos\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.AssemblyInfo.cs
+C:\Users\AsusPC\source\repos\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.csproj.CoreCompileInputs.cache
+C:\Users\AsusPC\source\repos\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.dll
+C:\Users\AsusPC\source\repos\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.pdb
+C:\Users\AsusPC\source\repos\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\AsusPC\source\repos\PassbyRef\PassbyRef\bin\Debug\netcoreapp3.1\PassbyRef.exe
+C:\Users\AsusPC\source\repos\PassbyRef\PassbyRef\bin\Debug\netcoreapp3.1\PassbyRef.deps.json
+C:\Users\AsusPC\source\repos\PassbyRef\PassbyRef\bin\Debug\netcoreapp3.1\PassbyRef.runtimeconfig.json
+C:\Users\AsusPC\source\repos\PassbyRef\PassbyRef\bin\Debug\netcoreapp3.1\PassbyRef.runtimeconfig.dev.json
+C:\Users\AsusPC\source\repos\PassbyRef\PassbyRef\bin\Debug\netcoreapp3.1\PassbyRef.dll
+C:\Users\AsusPC\source\repos\PassbyRef\PassbyRef\bin\Debug\netcoreapp3.1\PassbyRef.pdb
+C:\Users\AsusPC\source\repos\PassbyRef\PassbyRef\obj\Debug\netcoreapp3.1\PassbyRef.csproj.AssemblyReference.cache
+C:\Users\AsusPC\source\repos\PassbyRef\PassbyRef\obj\Debug\netcoreapp3.1\PassbyRef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AsusPC\source\repos\PassbyRef\PassbyRef\obj\Debug\netcoreapp3.1\PassbyRef.AssemblyInfoInputs.cache
+C:\Users\AsusPC\source\repos\PassbyRef\PassbyRef\obj\Debug\netcoreapp3.1\PassbyRef.AssemblyInfo.cs
+C:\Users\AsusPC\source\repos\PassbyRef\PassbyRef\obj\Debug\netcoreapp3.1\PassbyRef.csproj.CoreCompileInputs.cache
+C:\Users\AsusPC\source\repos\PassbyRef\PassbyRef\obj\Debug\netcoreapp3.1\PassbyRef.dll
+C:\Users\AsusPC\source\repos\PassbyRef\PassbyRef\obj\Debug\netcoreapp3.1\PassbyRef.pdb
+C:\Users\AsusPC\source\repos\PassbyRef\PassbyRef\obj\Debug\netcoreapp3.1\PassbyRef.genruntimeconfig.cache

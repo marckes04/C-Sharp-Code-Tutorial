@@ -1,0 +1,14 @@
+C:\Users\AsusPC\source\repos\WhileLoops\WhileLoops\bin\Debug\netcoreapp3.1\WhileLoops.exe
+C:\Users\AsusPC\source\repos\WhileLoops\WhileLoops\bin\Debug\netcoreapp3.1\WhileLoops.deps.json
+C:\Users\AsusPC\source\repos\WhileLoops\WhileLoops\bin\Debug\netcoreapp3.1\WhileLoops.runtimeconfig.json
+C:\Users\AsusPC\source\repos\WhileLoops\WhileLoops\bin\Debug\netcoreapp3.1\WhileLoops.runtimeconfig.dev.json
+C:\Users\AsusPC\source\repos\WhileLoops\WhileLoops\bin\Debug\netcoreapp3.1\WhileLoops.dll
+C:\Users\AsusPC\source\repos\WhileLoops\WhileLoops\bin\Debug\netcoreapp3.1\WhileLoops.pdb
+C:\Users\AsusPC\source\repos\WhileLoops\WhileLoops\obj\Debug\netcoreapp3.1\WhileLoops.csproj.AssemblyReference.cache
+C:\Users\AsusPC\source\repos\WhileLoops\WhileLoops\obj\Debug\netcoreapp3.1\WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AsusPC\source\repos\WhileLoops\WhileLoops\obj\Debug\netcoreapp3.1\WhileLoops.AssemblyInfoInputs.cache
+C:\Users\AsusPC\source\repos\WhileLoops\WhileLoops\obj\Debug\netcoreapp3.1\WhileLoops.AssemblyInfo.cs
+C:\Users\AsusPC\source\repos\WhileLoops\WhileLoops\obj\Debug\netcoreapp3.1\WhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\AsusPC\source\repos\WhileLoops\WhileLoops\obj\Debug\netcoreapp3.1\WhileLoops.dll
+C:\Users\AsusPC\source\repos\WhileLoops\WhileLoops\obj\Debug\netcoreapp3.1\WhileLoops.pdb
+C:\Users\AsusPC\source\repos\WhileLoops\WhileLoops\obj\Debug\netcoreapp3.1\WhileLoops.genruntimeconfig.cache

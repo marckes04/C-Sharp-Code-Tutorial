@@ -1,0 +1,14 @@
+C:\Users\AsusPC\source\repos\GetAndSetMethods\GetAndSetMethods\obj\Debug\netcoreapp3.1\GetAndSetMethods.csproj.AssemblyReference.cache
+C:\Users\AsusPC\source\repos\GetAndSetMethods\GetAndSetMethods\obj\Debug\netcoreapp3.1\GetAndSetMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AsusPC\source\repos\GetAndSetMethods\GetAndSetMethods\obj\Debug\netcoreapp3.1\GetAndSetMethods.AssemblyInfoInputs.cache
+C:\Users\AsusPC\source\repos\GetAndSetMethods\GetAndSetMethods\obj\Debug\netcoreapp3.1\GetAndSetMethods.AssemblyInfo.cs
+C:\Users\AsusPC\source\repos\GetAndSetMethods\GetAndSetMethods\obj\Debug\netcoreapp3.1\GetAndSetMethods.csproj.CoreCompileInputs.cache
+C:\Users\AsusPC\source\repos\GetAndSetMethods\GetAndSetMethods\bin\Debug\netcoreapp3.1\GetAndSetMethods.exe
+C:\Users\AsusPC\source\repos\GetAndSetMethods\GetAndSetMethods\bin\Debug\netcoreapp3.1\GetAndSetMethods.deps.json
+C:\Users\AsusPC\source\repos\GetAndSetMethods\GetAndSetMethods\bin\Debug\netcoreapp3.1\GetAndSetMethods.runtimeconfig.json
+C:\Users\AsusPC\source\repos\GetAndSetMethods\GetAndSetMethods\bin\Debug\netcoreapp3.1\GetAndSetMethods.runtimeconfig.dev.json
+C:\Users\AsusPC\source\repos\GetAndSetMethods\GetAndSetMethods\bin\Debug\netcoreapp3.1\GetAndSetMethods.dll
+C:\Users\AsusPC\source\repos\GetAndSetMethods\GetAndSetMethods\bin\Debug\netcoreapp3.1\GetAndSetMethods.pdb
+C:\Users\AsusPC\source\repos\GetAndSetMethods\GetAndSetMethods\obj\Debug\netcoreapp3.1\GetAndSetMethods.dll
+C:\Users\AsusPC\source\repos\GetAndSetMethods\GetAndSetMethods\obj\Debug\netcoreapp3.1\GetAndSetMethods.pdb
+C:\Users\AsusPC\source\repos\GetAndSetMethods\GetAndSetMethods\obj\Debug\netcoreapp3.1\GetAndSetMethods.genruntimeconfig.cache

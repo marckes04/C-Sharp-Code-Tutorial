@@ -1,0 +1,14 @@
+C:\Users\AsusPC\source\repos\SearchingArray\SearchingArray\bin\Debug\netcoreapp3.1\SearchingArray.exe
+C:\Users\AsusPC\source\repos\SearchingArray\SearchingArray\bin\Debug\netcoreapp3.1\SearchingArray.deps.json
+C:\Users\AsusPC\source\repos\SearchingArray\SearchingArray\bin\Debug\netcoreapp3.1\SearchingArray.runtimeconfig.json
+C:\Users\AsusPC\source\repos\SearchingArray\SearchingArray\bin\Debug\netcoreapp3.1\SearchingArray.runtimeconfig.dev.json
+C:\Users\AsusPC\source\repos\SearchingArray\SearchingArray\bin\Debug\netcoreapp3.1\SearchingArray.dll
+C:\Users\AsusPC\source\repos\SearchingArray\SearchingArray\bin\Debug\netcoreapp3.1\SearchingArray.pdb
+C:\Users\AsusPC\source\repos\SearchingArray\SearchingArray\obj\Debug\netcoreapp3.1\SearchingArray.csproj.AssemblyReference.cache
+C:\Users\AsusPC\source\repos\SearchingArray\SearchingArray\obj\Debug\netcoreapp3.1\SearchingArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AsusPC\source\repos\SearchingArray\SearchingArray\obj\Debug\netcoreapp3.1\SearchingArray.AssemblyInfoInputs.cache
+C:\Users\AsusPC\source\repos\SearchingArray\SearchingArray\obj\Debug\netcoreapp3.1\SearchingArray.AssemblyInfo.cs
+C:\Users\AsusPC\source\repos\SearchingArray\SearchingArray\obj\Debug\netcoreapp3.1\SearchingArray.csproj.CoreCompileInputs.cache
+C:\Users\AsusPC\source\repos\SearchingArray\SearchingArray\obj\Debug\netcoreapp3.1\SearchingArray.dll
+C:\Users\AsusPC\source\repos\SearchingArray\SearchingArray\obj\Debug\netcoreapp3.1\SearchingArray.pdb
+C:\Users\AsusPC\source\repos\SearchingArray\SearchingArray\obj\Debug\netcoreapp3.1\SearchingArray.genruntimeconfig.cache

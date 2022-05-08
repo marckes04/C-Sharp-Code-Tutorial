@@ -1,0 +1,14 @@
+C:\Users\AsusPC\source\repos\DoWhileLoops\DoWhileLoops\bin\Debug\netcoreapp3.1\DoWhileLoops.exe
+C:\Users\AsusPC\source\repos\DoWhileLoops\DoWhileLoops\bin\Debug\netcoreapp3.1\DoWhileLoops.deps.json
+C:\Users\AsusPC\source\repos\DoWhileLoops\DoWhileLoops\bin\Debug\netcoreapp3.1\DoWhileLoops.runtimeconfig.json
+C:\Users\AsusPC\source\repos\DoWhileLoops\DoWhileLoops\bin\Debug\netcoreapp3.1\DoWhileLoops.runtimeconfig.dev.json
+C:\Users\AsusPC\source\repos\DoWhileLoops\DoWhileLoops\bin\Debug\netcoreapp3.1\DoWhileLoops.dll
+C:\Users\AsusPC\source\repos\DoWhileLoops\DoWhileLoops\bin\Debug\netcoreapp3.1\DoWhileLoops.pdb
+C:\Users\AsusPC\source\repos\DoWhileLoops\DoWhileLoops\obj\Debug\netcoreapp3.1\DoWhileLoops.csproj.AssemblyReference.cache
+C:\Users\AsusPC\source\repos\DoWhileLoops\DoWhileLoops\obj\Debug\netcoreapp3.1\DoWhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AsusPC\source\repos\DoWhileLoops\DoWhileLoops\obj\Debug\netcoreapp3.1\DoWhileLoops.AssemblyInfoInputs.cache
+C:\Users\AsusPC\source\repos\DoWhileLoops\DoWhileLoops\obj\Debug\netcoreapp3.1\DoWhileLoops.AssemblyInfo.cs
+C:\Users\AsusPC\source\repos\DoWhileLoops\DoWhileLoops\obj\Debug\netcoreapp3.1\DoWhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\AsusPC\source\repos\DoWhileLoops\DoWhileLoops\obj\Debug\netcoreapp3.1\DoWhileLoops.dll
+C:\Users\AsusPC\source\repos\DoWhileLoops\DoWhileLoops\obj\Debug\netcoreapp3.1\DoWhileLoops.pdb
+C:\Users\AsusPC\source\repos\DoWhileLoops\DoWhileLoops\obj\Debug\netcoreapp3.1\DoWhileLoops.genruntimeconfig.cache

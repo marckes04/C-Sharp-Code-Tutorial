@@ -1,0 +1,14 @@
+C:\Users\AsusPC\source\repos\NumericConversionAndConstants\NumericConversionAndConstants\bin\Debug\netcoreapp3.1\NumericConversionAndConstants.exe
+C:\Users\AsusPC\source\repos\NumericConversionAndConstants\NumericConversionAndConstants\bin\Debug\netcoreapp3.1\NumericConversionAndConstants.deps.json
+C:\Users\AsusPC\source\repos\NumericConversionAndConstants\NumericConversionAndConstants\bin\Debug\netcoreapp3.1\NumericConversionAndConstants.runtimeconfig.json
+C:\Users\AsusPC\source\repos\NumericConversionAndConstants\NumericConversionAndConstants\bin\Debug\netcoreapp3.1\NumericConversionAndConstants.runtimeconfig.dev.json
+C:\Users\AsusPC\source\repos\NumericConversionAndConstants\NumericConversionAndConstants\bin\Debug\netcoreapp3.1\NumericConversionAndConstants.dll
+C:\Users\AsusPC\source\repos\NumericConversionAndConstants\NumericConversionAndConstants\bin\Debug\netcoreapp3.1\NumericConversionAndConstants.pdb
+C:\Users\AsusPC\source\repos\NumericConversionAndConstants\NumericConversionAndConstants\obj\Debug\netcoreapp3.1\NumericConversionAndConstants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AsusPC\source\repos\NumericConversionAndConstants\NumericConversionAndConstants\obj\Debug\netcoreapp3.1\NumericConversionAndConstants.AssemblyInfoInputs.cache
+C:\Users\AsusPC\source\repos\NumericConversionAndConstants\NumericConversionAndConstants\obj\Debug\netcoreapp3.1\NumericConversionAndConstants.AssemblyInfo.cs
+C:\Users\AsusPC\source\repos\NumericConversionAndConstants\NumericConversionAndConstants\obj\Debug\netcoreapp3.1\NumericConversionAndConstants.csproj.CoreCompileInputs.cache
+C:\Users\AsusPC\source\repos\NumericConversionAndConstants\NumericConversionAndConstants\obj\Debug\netcoreapp3.1\NumericConversionAndConstants.dll
+C:\Users\AsusPC\source\repos\NumericConversionAndConstants\NumericConversionAndConstants\obj\Debug\netcoreapp3.1\NumericConversionAndConstants.pdb
+C:\Users\AsusPC\source\repos\NumericConversionAndConstants\NumericConversionAndConstants\obj\Debug\netcoreapp3.1\NumericConversionAndConstants.genruntimeconfig.cache
+C:\Users\AsusPC\source\repos\NumericConversionAndConstants\NumericConversionAndConstants\obj\Debug\netcoreapp3.1\NumericConversionAndConstants.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz2Methods\Quiz2Methods\bin\Debug\netcoreapp3.1\Quiz2Methods.exe
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz2Methods\Quiz2Methods\bin\Debug\netcoreapp3.1\Quiz2Methods.deps.json
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz2Methods\Quiz2Methods\bin\Debug\netcoreapp3.1\Quiz2Methods.runtimeconfig.json
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz2Methods\Quiz2Methods\bin\Debug\netcoreapp3.1\Quiz2Methods.runtimeconfig.dev.json
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz2Methods\Quiz2Methods\bin\Debug\netcoreapp3.1\Quiz2Methods.dll
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz2Methods\Quiz2Methods\bin\Debug\netcoreapp3.1\Quiz2Methods.pdb
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz2Methods\Quiz2Methods\obj\Debug\netcoreapp3.1\Quiz2Methods.csproj.AssemblyReference.cache
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz2Methods\Quiz2Methods\obj\Debug\netcoreapp3.1\Quiz2Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz2Methods\Quiz2Methods\obj\Debug\netcoreapp3.1\Quiz2Methods.AssemblyInfoInputs.cache
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz2Methods\Quiz2Methods\obj\Debug\netcoreapp3.1\Quiz2Methods.AssemblyInfo.cs
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz2Methods\Quiz2Methods\obj\Debug\netcoreapp3.1\Quiz2Methods.csproj.CoreCompileInputs.cache
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz2Methods\Quiz2Methods\obj\Debug\netcoreapp3.1\Quiz2Methods.dll
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz2Methods\Quiz2Methods\obj\Debug\netcoreapp3.1\Quiz2Methods.pdb
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz2Methods\Quiz2Methods\obj\Debug\netcoreapp3.1\Quiz2Methods.genruntimeconfig.cache

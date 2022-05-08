@@ -1,0 +1,14 @@
+C:\Users\AsusPC\Desktop\C# Lessons\CreatingAClass\CreatingAClass\bin\Debug\netcoreapp3.1\CreatingAClass.exe
+C:\Users\AsusPC\Desktop\C# Lessons\CreatingAClass\CreatingAClass\bin\Debug\netcoreapp3.1\CreatingAClass.deps.json
+C:\Users\AsusPC\Desktop\C# Lessons\CreatingAClass\CreatingAClass\bin\Debug\netcoreapp3.1\CreatingAClass.runtimeconfig.json
+C:\Users\AsusPC\Desktop\C# Lessons\CreatingAClass\CreatingAClass\bin\Debug\netcoreapp3.1\CreatingAClass.runtimeconfig.dev.json
+C:\Users\AsusPC\Desktop\C# Lessons\CreatingAClass\CreatingAClass\bin\Debug\netcoreapp3.1\CreatingAClass.dll
+C:\Users\AsusPC\Desktop\C# Lessons\CreatingAClass\CreatingAClass\bin\Debug\netcoreapp3.1\CreatingAClass.pdb
+C:\Users\AsusPC\Desktop\C# Lessons\CreatingAClass\CreatingAClass\obj\Debug\netcoreapp3.1\CreatingAClass.csproj.AssemblyReference.cache
+C:\Users\AsusPC\Desktop\C# Lessons\CreatingAClass\CreatingAClass\obj\Debug\netcoreapp3.1\CreatingAClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AsusPC\Desktop\C# Lessons\CreatingAClass\CreatingAClass\obj\Debug\netcoreapp3.1\CreatingAClass.AssemblyInfoInputs.cache
+C:\Users\AsusPC\Desktop\C# Lessons\CreatingAClass\CreatingAClass\obj\Debug\netcoreapp3.1\CreatingAClass.AssemblyInfo.cs
+C:\Users\AsusPC\Desktop\C# Lessons\CreatingAClass\CreatingAClass\obj\Debug\netcoreapp3.1\CreatingAClass.csproj.CoreCompileInputs.cache
+C:\Users\AsusPC\Desktop\C# Lessons\CreatingAClass\CreatingAClass\obj\Debug\netcoreapp3.1\CreatingAClass.dll
+C:\Users\AsusPC\Desktop\C# Lessons\CreatingAClass\CreatingAClass\obj\Debug\netcoreapp3.1\CreatingAClass.pdb
+C:\Users\AsusPC\Desktop\C# Lessons\CreatingAClass\CreatingAClass\obj\Debug\netcoreapp3.1\CreatingAClass.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\AsusPC\Desktop\C# Lessons\BoolData\BoolData\bin\Debug\netcoreapp3.1\BoolData.exe
+C:\Users\AsusPC\Desktop\C# Lessons\BoolData\BoolData\bin\Debug\netcoreapp3.1\BoolData.deps.json
+C:\Users\AsusPC\Desktop\C# Lessons\BoolData\BoolData\bin\Debug\netcoreapp3.1\BoolData.runtimeconfig.json
+C:\Users\AsusPC\Desktop\C# Lessons\BoolData\BoolData\bin\Debug\netcoreapp3.1\BoolData.runtimeconfig.dev.json
+C:\Users\AsusPC\Desktop\C# Lessons\BoolData\BoolData\bin\Debug\netcoreapp3.1\BoolData.dll
+C:\Users\AsusPC\Desktop\C# Lessons\BoolData\BoolData\bin\Debug\netcoreapp3.1\BoolData.pdb
+C:\Users\AsusPC\Desktop\C# Lessons\BoolData\BoolData\obj\Debug\netcoreapp3.1\BoolData.csproj.AssemblyReference.cache
+C:\Users\AsusPC\Desktop\C# Lessons\BoolData\BoolData\obj\Debug\netcoreapp3.1\BoolData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AsusPC\Desktop\C# Lessons\BoolData\BoolData\obj\Debug\netcoreapp3.1\BoolData.AssemblyInfoInputs.cache
+C:\Users\AsusPC\Desktop\C# Lessons\BoolData\BoolData\obj\Debug\netcoreapp3.1\BoolData.AssemblyInfo.cs
+C:\Users\AsusPC\Desktop\C# Lessons\BoolData\BoolData\obj\Debug\netcoreapp3.1\BoolData.csproj.CoreCompileInputs.cache
+C:\Users\AsusPC\Desktop\C# Lessons\BoolData\BoolData\obj\Debug\netcoreapp3.1\BoolData.dll
+C:\Users\AsusPC\Desktop\C# Lessons\BoolData\BoolData\obj\Debug\netcoreapp3.1\BoolData.pdb
+C:\Users\AsusPC\Desktop\C# Lessons\BoolData\BoolData\obj\Debug\netcoreapp3.1\BoolData.genruntimeconfig.cache

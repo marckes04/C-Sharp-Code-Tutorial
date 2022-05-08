@@ -1,0 +1,14 @@
+C:\Users\AsusPC\Desktop\C# Lessons\ConditionalNot\ConditionalNot\bin\Debug\netcoreapp3.1\ConditionalNot.exe
+C:\Users\AsusPC\Desktop\C# Lessons\ConditionalNot\ConditionalNot\bin\Debug\netcoreapp3.1\ConditionalNot.deps.json
+C:\Users\AsusPC\Desktop\C# Lessons\ConditionalNot\ConditionalNot\bin\Debug\netcoreapp3.1\ConditionalNot.runtimeconfig.json
+C:\Users\AsusPC\Desktop\C# Lessons\ConditionalNot\ConditionalNot\bin\Debug\netcoreapp3.1\ConditionalNot.runtimeconfig.dev.json
+C:\Users\AsusPC\Desktop\C# Lessons\ConditionalNot\ConditionalNot\bin\Debug\netcoreapp3.1\ConditionalNot.dll
+C:\Users\AsusPC\Desktop\C# Lessons\ConditionalNot\ConditionalNot\bin\Debug\netcoreapp3.1\ConditionalNot.pdb
+C:\Users\AsusPC\Desktop\C# Lessons\ConditionalNot\ConditionalNot\obj\Debug\netcoreapp3.1\ConditionalNot.csproj.AssemblyReference.cache
+C:\Users\AsusPC\Desktop\C# Lessons\ConditionalNot\ConditionalNot\obj\Debug\netcoreapp3.1\ConditionalNot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AsusPC\Desktop\C# Lessons\ConditionalNot\ConditionalNot\obj\Debug\netcoreapp3.1\ConditionalNot.AssemblyInfoInputs.cache
+C:\Users\AsusPC\Desktop\C# Lessons\ConditionalNot\ConditionalNot\obj\Debug\netcoreapp3.1\ConditionalNot.AssemblyInfo.cs
+C:\Users\AsusPC\Desktop\C# Lessons\ConditionalNot\ConditionalNot\obj\Debug\netcoreapp3.1\ConditionalNot.csproj.CoreCompileInputs.cache
+C:\Users\AsusPC\Desktop\C# Lessons\ConditionalNot\ConditionalNot\obj\Debug\netcoreapp3.1\ConditionalNot.dll
+C:\Users\AsusPC\Desktop\C# Lessons\ConditionalNot\ConditionalNot\obj\Debug\netcoreapp3.1\ConditionalNot.pdb
+C:\Users\AsusPC\Desktop\C# Lessons\ConditionalNot\ConditionalNot\obj\Debug\netcoreapp3.1\ConditionalNot.genruntimeconfig.cache

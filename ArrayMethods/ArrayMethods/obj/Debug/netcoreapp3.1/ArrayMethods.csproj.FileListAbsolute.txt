@@ -1,0 +1,14 @@
+C:\Users\AsusPC\source\repos\ArrayMethods\ArrayMethods\bin\Debug\netcoreapp3.1\ArrayMethods.exe
+C:\Users\AsusPC\source\repos\ArrayMethods\ArrayMethods\bin\Debug\netcoreapp3.1\ArrayMethods.deps.json
+C:\Users\AsusPC\source\repos\ArrayMethods\ArrayMethods\bin\Debug\netcoreapp3.1\ArrayMethods.runtimeconfig.json
+C:\Users\AsusPC\source\repos\ArrayMethods\ArrayMethods\bin\Debug\netcoreapp3.1\ArrayMethods.runtimeconfig.dev.json
+C:\Users\AsusPC\source\repos\ArrayMethods\ArrayMethods\bin\Debug\netcoreapp3.1\ArrayMethods.dll
+C:\Users\AsusPC\source\repos\ArrayMethods\ArrayMethods\bin\Debug\netcoreapp3.1\ArrayMethods.pdb
+C:\Users\AsusPC\source\repos\ArrayMethods\ArrayMethods\obj\Debug\netcoreapp3.1\ArrayMethods.csproj.AssemblyReference.cache
+C:\Users\AsusPC\source\repos\ArrayMethods\ArrayMethods\obj\Debug\netcoreapp3.1\ArrayMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AsusPC\source\repos\ArrayMethods\ArrayMethods\obj\Debug\netcoreapp3.1\ArrayMethods.AssemblyInfoInputs.cache
+C:\Users\AsusPC\source\repos\ArrayMethods\ArrayMethods\obj\Debug\netcoreapp3.1\ArrayMethods.AssemblyInfo.cs
+C:\Users\AsusPC\source\repos\ArrayMethods\ArrayMethods\obj\Debug\netcoreapp3.1\ArrayMethods.csproj.CoreCompileInputs.cache
+C:\Users\AsusPC\source\repos\ArrayMethods\ArrayMethods\obj\Debug\netcoreapp3.1\ArrayMethods.dll
+C:\Users\AsusPC\source\repos\ArrayMethods\ArrayMethods\obj\Debug\netcoreapp3.1\ArrayMethods.pdb
+C:\Users\AsusPC\source\repos\ArrayMethods\ArrayMethods\obj\Debug\netcoreapp3.1\ArrayMethods.genruntimeconfig.cache

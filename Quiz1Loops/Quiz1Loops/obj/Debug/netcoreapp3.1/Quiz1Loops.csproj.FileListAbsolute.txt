@@ -1,0 +1,14 @@
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz1Loops\Quiz1Loops\bin\Debug\netcoreapp3.1\Quiz1Loops.exe
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz1Loops\Quiz1Loops\bin\Debug\netcoreapp3.1\Quiz1Loops.deps.json
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz1Loops\Quiz1Loops\bin\Debug\netcoreapp3.1\Quiz1Loops.runtimeconfig.json
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz1Loops\Quiz1Loops\bin\Debug\netcoreapp3.1\Quiz1Loops.runtimeconfig.dev.json
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz1Loops\Quiz1Loops\bin\Debug\netcoreapp3.1\Quiz1Loops.dll
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz1Loops\Quiz1Loops\bin\Debug\netcoreapp3.1\Quiz1Loops.pdb
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz1Loops\Quiz1Loops\obj\Debug\netcoreapp3.1\Quiz1Loops.csproj.AssemblyReference.cache
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz1Loops\Quiz1Loops\obj\Debug\netcoreapp3.1\Quiz1Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz1Loops\Quiz1Loops\obj\Debug\netcoreapp3.1\Quiz1Loops.AssemblyInfoInputs.cache
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz1Loops\Quiz1Loops\obj\Debug\netcoreapp3.1\Quiz1Loops.AssemblyInfo.cs
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz1Loops\Quiz1Loops\obj\Debug\netcoreapp3.1\Quiz1Loops.csproj.CoreCompileInputs.cache
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz1Loops\Quiz1Loops\obj\Debug\netcoreapp3.1\Quiz1Loops.dll
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz1Loops\Quiz1Loops\obj\Debug\netcoreapp3.1\Quiz1Loops.pdb
+C:\Users\AsusPC\Desktop\C# Lessons\Quiz1Loops\Quiz1Loops\obj\Debug\netcoreapp3.1\Quiz1Loops.genruntimeconfig.cache
